@@ -1,9 +1,10 @@
 ## DAY 5
+
 1. Use the countries API to fetch data about countries. (5 pt)
 
-      ```js
-      const API_URL = 'https://restcountries.com/v3/all'
-      ```
+    ```js
+    const API_URL = "https://restcountries.com/v3/all";
+    ```
 
     - How many languages are there in the countries API
     - Find the 15 most spoken languages
